@@ -12,7 +12,6 @@ This is a Shiny web application for outlier detection and visualization. It allo
   - [Installation](#installation)
 - [Usage](#usage)
 - [Authors](#authors)
-- [License](#license)
 
 ## Features
 
