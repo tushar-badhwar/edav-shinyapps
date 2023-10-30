@@ -47,17 +47,16 @@ You can install these packages using R's package manager, `install.packages("pac
 
 ```R
 shiny::runApp("path_to_app_directory")
-
-
+```
 ### Authors
 
 This Shiny web application was developed by the following authors:
 
 - **Tushar Badhwar**
-  - tb3070@columbia.edu
+  - tb3070@columbia.edu, https://github.com/tushar-badhwar
 
 - **Harmeet Singh Bagga**
-  - hb2783@columbia.edu
+  - hb2783@columbia.edu https://github.com/harmith-singh
 
 If you have any questions, feedback, or need assistance with the app, feel free to reach out to the authors through their GitHub profiles or contact them via email.
 
